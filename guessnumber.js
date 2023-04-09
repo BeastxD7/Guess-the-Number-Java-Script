@@ -1,4 +1,4 @@
-// Guess the Number
+// Guess the Number, Display and also Dislpay  Score of the user using JavaScript
 let number = Math.random() * 100
 number = parseInt(number)
 //console.log(number)	//uncomment this line to reveal the Generated Number xD!!
