@@ -1,7 +1,7 @@
 // Guess the Number
 let number = Math.random() * 100
 number = parseInt(number)
-console.log(number)
+//console.log(number)	//uncomment this line to reveal the Generated Number xD!!
 var score = 101,chance = 0;
 let guess;
 do {
